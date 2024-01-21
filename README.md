@@ -1,4 +1,4 @@
-### Hello, I am Matheus! Front-end developer. 🕸️
+## Hello, I am Matheus! Front-end developer. 🕸️
 
 Aspiring full-stack web developer who loves tech! Currently diving deep into front-end development. FIAP student on a learning spree with Alura courses. 📖
 
